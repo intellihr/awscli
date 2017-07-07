@@ -7,3 +7,5 @@ RUN apk add --no-cache python3 && \
     if [ ! -e /usr/bin/pip ]; then ln -s pip3 /usr/bin/pip ; fi && \
     pip install awscli && \
     rm -r /root/.cache
+
+WORKDIR /root
