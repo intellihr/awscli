@@ -1,0 +1,6 @@
+awscli==1.14.38
+boto3==1.5.28
+flake8==3.5.0
+git+git://github.com/intellihr/event_bus_python.git
+inflection==0.3.1
+yapf==0.20.1
