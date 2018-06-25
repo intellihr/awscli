@@ -1,6 +1,6 @@
 awscli==1.15.45
-boto3==1.6.6
+boto3==1.7.45
 flake8==3.5.0
 inflection==0.3.1
-yapf==0.20.1
+yapf==0.22.0
 https://github.com/intellihr/event_bus_python/archive/v0.0.2.zip
