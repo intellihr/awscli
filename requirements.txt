@@ -1,5 +1,5 @@
-awscli==1.15.45
-boto3==1.7.45
+awscli==1.18.147
+boto3==1.15.6
 flake8==3.5.0
 inflection==0.3.1
 namesgenerator==0.3
